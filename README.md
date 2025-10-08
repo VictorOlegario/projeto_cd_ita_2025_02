@@ -12,7 +12,7 @@ Em outras palavras, o projeto mostra que um **pipeline inteligente de pré-proce
 - 🔧 **Corrigir** dinamicamente a iluminação e a estabilidade fotométrica do vídeo;  
 - 💪 **Melhorar** a performance global dos métodos tradicionais de rPPG, reduzindo a dependência das condições ideais de gravação.  
 
-Link do videos origem:
+Link do videos origem: https://drive.google.com/drive/folders/1RAuQ6wHSyOEGmhREMWjV13Dx21sbxJBv?usp=sharing
 ---
 
 ## 🧩 Visão em Etapas  
