@@ -213,8 +213,5 @@ Reconhecer padrões de iluminação ruins e sugerir **correções automáticas**
 ---
 
 ## ✉️ Autor  
-**Victor Olegario**  
-📧 victorholegario@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/victor-olegario-8a1726149)
 
 ---
