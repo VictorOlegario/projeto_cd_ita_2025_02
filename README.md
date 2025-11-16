@@ -143,6 +143,8 @@ O modelo **Random Forest** apresentou melhor desempenho **na maioria dos cenári
 ![alt text](image.png)
 
 ---
-# 🧠 Autor
-
+# 🧠 Autores:
+Gabriel Farias
+Jardel
+João Pedro
 Victor Olegario
