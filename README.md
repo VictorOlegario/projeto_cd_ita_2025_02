@@ -1,5 +1,5 @@
 # 🧠 Projeto de Ciência de Dados ITA 2025.02  
-# 🛠️ Precificação Automatizada de Peças Usinadas com Machine Learning
+# 🛠️ Precificação Automatizada de Peças Usinadas com Machine Learning aeronáutica
 
 Este repositório contém todo o pipeline desenvolvido para previsão de preço de peças usinadas utilizando **modelagem estatística**, **análise exploratória de dados (EDA)** e **três modelos de Machine Learning (Regressão Linear, Random Forest e XGBoost)**.
 
